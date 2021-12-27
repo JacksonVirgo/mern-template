@@ -1,0 +1,20 @@
+{
+    "name": "mern-template",
+    "version": "1.0.0",
+    "description": "MERN Stack Template",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JacksonVirgo/mern-template.git"
+    },
+    "keywords": [],
+    "author": "Jack Nash",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JacksonVirgo/mern-template/issues"
+    },
+    "homepage": "https://github.com/JacksonVirgo/mern-template#readme"
+}
